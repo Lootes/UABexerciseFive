@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Code according to Lootes
-=======
-First lines according to Dr. No
->>>>>>> 508eb19f1fdc78741e37d05429919bb775ef58c3
+
